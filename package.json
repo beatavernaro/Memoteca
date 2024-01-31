@@ -1,6 +1,7 @@
 {
   "name": "memoteca",
   "version": "0.0.0",
+  "homepage": "https://beatavernaro.github.io/Memoteca/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
