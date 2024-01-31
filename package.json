@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "deploy": "ng build --base-href=/Memoteca/ && ngh --dir=dist/memoteca"
   },
   "private": true,
   "dependencies": {
